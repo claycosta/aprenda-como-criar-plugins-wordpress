@@ -1,0 +1,3 @@
+index.php
+wordpress-importer/
+!*/**/index.php

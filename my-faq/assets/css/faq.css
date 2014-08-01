@@ -1,0 +1,22 @@
+.my-faq-section {
+	margin-bottom: 1.5em;
+}
+
+h3.my-faq-title {
+	background: #21759b;
+	cursor: pointer;
+	display: block;
+	padding: 10px 6px;
+	margin: 0;
+}
+
+.my-faq-title a.toggle {
+	display: block;
+	color: #fff;
+	text-decoration: none;
+}
+
+.my-faq-content {
+	display: none;
+	margin-top: .5em;
+}
